@@ -1,11 +1,10 @@
 # Mixed messages
-Random quote generator
 
 ## Introduction
-Simple script made for portfolio projects on codecademy. 
+Random quote generator. Simple script made for portfolio projects on codecademy. 
 
 ## Example
-Example of output
+Example of output:
 ```
 Hello beautiful sunshine, today is Wednesday, January 26, 2022. 
 Remember how once Kevin Kruse said 
@@ -21,5 +20,5 @@ Bye now
 ## Launch
 Run JavaScript file with NodeJs environment.
 ```
-node main.js
+$ node main.js
 ```
